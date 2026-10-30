@@ -1,0 +1,10 @@
+# A FÁJLT NE MÓDOSÍTSD
+name: 4rchLoginBungee
+version: 1.0
+main: hu.archblox.login.ArchLoginBungee
+author: 4rchBlox
+permissions:
+  archlogin.player:
+    default: true
+  archlogin.admin:
+    default: op
